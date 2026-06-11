@@ -17,6 +17,11 @@
         "backgroundColor": "#ffffff"
       },
       "package": "com.daylecust.kangelsfx"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ad267d34-7127-466d-965a-838634d28d08"
+      }
     }
   }
 }
